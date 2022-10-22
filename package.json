@@ -1,5 +1,5 @@
 {
 "dependencies": {
-"apollo-server": "1.0.0"
+"@apollo/server": "4.0.0"
 }
 }
